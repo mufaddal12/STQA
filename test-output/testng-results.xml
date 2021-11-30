@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="12642" started-at="2020-10-01T05:06:24Z" finished-at="2020-10-01T05:06:37Z">
+    <groups>
+    </groups>
+    <test name="untitled1" duration-ms="12642" started-at="2020-10-01T05:06:24Z" finished-at="2020-10-01T05:06:37Z">
+      <class name="RegisterTest">
+        <test-method status="PASS" signature="check_registration(java.util.Map)[pri:0, instance:RegisterTest@43a25848]" name="check_registration" duration-ms="3501" started-at="2020-10-01T10:36:24Z" data-provider="register" finished-at="2020-10-01T10:36:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=Berlin, username=John}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_registration -->
+        <test-method status="PASS" signature="check_registration(java.util.Map)[pri:0, instance:RegisterTest@43a25848]" name="check_registration" duration-ms="2703" started-at="2020-10-01T10:36:28Z" data-provider="register" finished-at="2020-10-01T10:36:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=Oslo, username=Mark}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_registration -->
+        <test-method status="PASS" signature="check_registration(java.util.Map)[pri:0, instance:RegisterTest@43a25848]" name="check_registration" duration-ms="6418" started-at="2020-10-01T10:36:31Z" data-provider="register" finished-at="2020-10-01T10:36:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=ks2334, username=PurJain}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_registration -->
+      </class> <!-- RegisterTest -->
+    </test> <!-- untitled1 -->
+  </suite> <!-- Default Suite -->
+</testng-results>

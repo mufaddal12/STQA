@@ -1,0 +1,54 @@
+{
+    "Register": [
+      {
+        "username": "John",
+        "password": "Berlin"
+      },
+      {
+        "username": "Mark",
+        "password": "Oslo"
+      },
+      {
+        "username": "adityamandke",
+        "password": "abcde"
+      }
+    ],
+    "Login": [
+      {
+        "username": "Karan",
+        "password": "pauv6h",
+        "loginStatus": "true"
+      },
+      {
+        "username": "mufaddaldiwan",
+        "password": "N5f9pW",
+        "loginStatus": "false"
+
+      }
+    ],
+  "buystock": [
+    {
+      "username": "mufaddaldiwan",
+      "password": "N5f9pW",
+      "company": "Sarte",
+      "quantity": "10"
+
+    }],
+    "logout": [
+      {
+        "username": "mufaddaldiwan",
+        "password": "N5f9pW"
+      }
+
+    ],
+  "sellstock": [
+    {
+      "username": "Karan",
+      "password": "pauv6h",
+      "company": "Prudent National Bank",
+      "quantity": "5"
+    }
+  ]
+}
+
+

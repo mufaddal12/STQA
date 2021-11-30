@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]">
+  <test name="untitled1(failed)">
+    <classes>
+      <class name="RegisterTest">
+        <methods>
+          <include name="check_registration" invocation-numbers="2"/>
+        </methods>
+      </class> <!-- RegisterTest -->
+    </classes>
+  </test> <!-- untitled1(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
